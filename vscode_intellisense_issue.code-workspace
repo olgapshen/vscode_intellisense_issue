@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.configuration.runtimes": [
+			{
+				"name": "JavaSE-11",
+				"path": "/usr/lib64/jvm/java-11-openjdk-11/",
+			},
+			{
+				"name": "JavaSE-17",
+				"path": "/home/olga/java/jdk-17.0.4.1+1",
+				"default": true
+			}
+		]
+	}
+}

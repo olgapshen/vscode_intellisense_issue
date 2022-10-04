@@ -1,0 +1,6 @@
+{
+  message: '[Error - 10:44:16 PM] Oct 4, 2022, 10:44:16 PM Error occured while building workspace. Details: \n' +
+    ' message: The method takeWhile((<no type> l) -> {}) is undefined for the type Stream<String>; code: 67108964; resource: /home/olga/repos/vscode_intellisense_issue/lib/src/main/java/vscode_intellisense_issue/Library.java; line: 19',
+  level: 'info',
+  timestamp: '2022-10-04 22:44:16.810'
+}

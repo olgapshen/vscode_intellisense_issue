@@ -1,0 +1,16 @@
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-10-04 22:44:16.525
+!MESSAGE >> workspace/executeCommand vscode.java.test.findTestPackagesAndTypes
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-10-04 22:44:16.594
+!MESSAGE >> workspace/executeCommand vscode.java.test.findDirectTestChildrenForClass
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-10-04 22:44:16.611
+!MESSAGE >> workspace/executeCommand vscode.java.test.junit.argument
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-10-04 22:44:16.808
+!MESSAGE >> java/buildWorkspace (incremental)
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2022-10-04 22:44:16.810
+!MESSAGE Error occured while building workspace. Details: 
+ message: The method takeWhile((<no type> l) -> {}) is undefined for the type Stream<String>; code: 67108964; resource: /home/olga/repos/vscode_intellisense_issue/lib/src/main/java/vscode_intellisense_issue/Library.java; line: 19
